@@ -37,7 +37,7 @@ This project implements a blockchain-based reward system to promote sustainable 
 - Hardhat or Truffle
 - Metamask wallet connected to a testnet (Goerli, Sepolia, etc.)
 
-
+```bash
 
 1. Clone the repository
 ```bash
