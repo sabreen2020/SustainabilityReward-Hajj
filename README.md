@@ -40,15 +40,17 @@ This project implements a blockchain-based reward system to promote sustainable 
 
 
 1. Clone the repository
-
+```bash
 git clone https://github.com/sabreen2020/SustainabilityReward-Hajj.git
 cd SustainabilityReward-Hajj
 
 2. Install dependencies
+```bash
 npm install
 npx hardhat compile
 
 3. Compile the contract
+```bash
 npx hardhat compile
 
 4. Deploy the contract to testnet
