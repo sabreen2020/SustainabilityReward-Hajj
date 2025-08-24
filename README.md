@@ -37,7 +37,7 @@ This project implements a blockchain-based reward system to promote sustainable 
 - Hardhat or Truffle
 - Metamask wallet connected to a testnet (Goerli, Sepolia, etc.)
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 git clone https://github.com/sabreen2020/SustainabilityReward-Hajj.git
 cd SustainabilityReward-Hajj
