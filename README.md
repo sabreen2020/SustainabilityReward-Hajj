@@ -41,9 +41,17 @@ This project implements a blockchain-based reward system to promote sustainable 
 ```bash
 git clone https://github.com/sabreen2020/SustainabilityReward-Hajj.git
 cd SustainabilityReward-Hajj
-### 2. Install dependencies
+
+2. Install dependencies
 npm install
 npx hardhat compile
+
+3. Compile the contract
+npx hardhat compile
+
 4. Deploy the contract to testnet
 Set your .env with private key and Infura/Alchemy URL, then:
 npx hardhat run scripts/deploy.js --network goerli
+
+### 🙌 Acknowledgements
+This project is part of a research study on sustainable behaviors and digital transformation in religious megacity events like Hajj. It aligns with the UN SDGs and Saudi Vision 2030 goals on smart cities and environmental responsibility.
